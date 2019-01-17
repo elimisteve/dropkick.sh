@@ -15,10 +15,10 @@ stay and disconnect them in turn. It’s based on glasshole.sh. It should do awa
 with the need to rummage around in other people’s stuff, racked with paranoia,
 looking for the things.
 
-Thanks to [http://ahprojects.com](Adam Harvey) for giving me the push, not to mention for naming it.
+Thanks to [Adam Harvey](http://ahprojects.com) for giving me the push, not to mention for naming it.
 
 For a plug-and-play solution in the form of a network appliance, see
-[https://plugunplug.net](Cyborg Unplug).
+[Cyborg Unplug](https://plugunplug.net).
 
 Disclaimer
 ---------
